@@ -1,7 +1,7 @@
 - 1 pound sweet Italian sausage
 - ¾ pound lean ground beef
 - ½ cup minced onion
-- 2 cloves garlic, crushed
+- 2 cloves garlic, chopped
 - 1 (28 ounce) can crushed tomatoes
 - 2 (6.5 ounce) cans canned tomato sauce
 - 2 (6 ounce) cans tomato paste
@@ -20,3 +20,4 @@
 - ¾ pound mozzarella cheese, sliced
 - ¾ cup grated Parmesan cheese
 - 2 cups of love
+- logic
